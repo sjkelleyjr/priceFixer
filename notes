@@ -1,0 +1,2 @@
+Note, we can make the outlier algo more "adaptive" by using K numbers for the variance calc rather than the whole population.
+https://towardsdatascience.com/easy-outlier-detection-in-data-streams-3089bfefe528

@@ -1,0 +1,8 @@
+#the amadeus keys, so they aren't committed
+amadeus_keys.py
+# this are files we used to test locally
+# this holds the outlier flight info
+outliers.json
+# this holds the historical prices for the flight destinations
+test.json
+__pycache__/
